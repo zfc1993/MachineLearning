@@ -1,5 +1,4 @@
 '''
-Created on Sep 16, 2010
 kNN: k Nearest Neighbors
 
 Input:      inX: vector to compare to existing dataset (1xN)
@@ -9,7 +8,6 @@ Input:      inX: vector to compare to existing dataset (1xN)
             
 Output:     the most popular class label
 
-@author: pbharrin
 '''
 from numpy import *
 import operator
